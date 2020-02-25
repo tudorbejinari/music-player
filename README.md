@@ -1,4 +1,4 @@
-# Music-Player [App]()
+# Music-Player [App](https://tudorbejinari.github.io/music-player/)
 
 ### Create beautiful UI to play music stored in the "music folder" using the HTML5 audio API
 
