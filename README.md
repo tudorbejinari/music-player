@@ -7,4 +7,5 @@
 * Add play and pause functionality
 * Switch songs
 * Progress bar
+
 ![img](https://github.com/tudorbejinari/music-player/blob/master/images/music.png)
